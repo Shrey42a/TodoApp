@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.h1 {
+  font-family: 'Londrina Shadow', cursive;
+  filter: drop-shadow(2px 4px 1px #009dff);
+}
+
+
+.nav {
+  font-family: 'Fredericka the Great', cursive;
+}
+
+.btn {
+  font-family: 'Londrina Shadow', cursive
+}
+
+.btn:hover {
+  background-color: palevioletred;
+}
+
+.h2 {
+  font-family: 'Abril Fatface', cursive;
+}
+
+.bg12
+{
+  background:url('https://s-media-cache-ak0.pinimg.com/736x/f4/ac/6a/f4ac6aac3afb587f6cae04155656fca3.jpg');
+}
+.bg13 {
+  background:url("https://media.discordapp.net/attachments/933654325127938101/1025987346262392902/Logo_todo.png?width=789&height=492");
+}

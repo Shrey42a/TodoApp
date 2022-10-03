@@ -4,7 +4,10 @@
 
 .h1 {
   font-family: 'Londrina Shadow', cursive;
-  filter: drop-shadow(2px 4px 1px #009dff);
+  filter: drop-shadow(2px 4px 1px #15ff00);
+  text-shadow: 3px 2px rgb(251, 255, 0);
+  -webkit-text-stroke-color: rgba(0, 0, 0, 0.521);
+  -webkit-text-stroke-width: 2px;
 }
 
 

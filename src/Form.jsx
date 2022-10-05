@@ -12,9 +12,7 @@ function Form(props) {
 
   const saveToDo = () => {
     props.onCreate(inputValue);
-    
     setInputValue('');
-    
     props.onClose();
   }
   

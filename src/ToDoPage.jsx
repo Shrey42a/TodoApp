@@ -45,7 +45,7 @@ function ToDoPage() {
   }
   return (
     <>
-    <div className="bg-gradient-to-tr from-zinc-300 via-slate-100 to-teal-200 dark-mode">
+    <div className="bg10 bg-cover">
       <Header></Header>
       <div className="px-4 mx-auto max-w-7xl py-20 sm:px-6 lg:px-8">
         <div className="flex flex-col lg:flex-row lg:justify-between">
@@ -69,7 +69,7 @@ function ToDoPage() {
         <div className="flex mt-8 h-52 w-60 justify-end">
            <img className="h-full w-full" src="https://media.discordapp.net/attachments/933654325127938101/1025987346262392902/Logo_todo.png?width=789&height=492"></img>
         </div>
-      </div>
+        </div>
     </div>
     <Footer />
     </>

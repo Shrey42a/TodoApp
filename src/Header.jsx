@@ -2,7 +2,7 @@ import React from "react";
 
 function Header()  {
   return (
-    <nav className="nav shadow-yellow-900 shadow-sm border-b">
+    <nav className="nav shadow-zinc-900 shadow-md">
       <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <a href="/"><p className="text-2xl font-medium leading-6 text-gray-900 sm:truncate">X TODO</p></a>
